@@ -6,7 +6,7 @@
 --allow-unrelated-histories
 
 # React
-<b>Create project</b>
+<b>Create React project with Typescript</b>
 </br>
 npx create-react-app . --template typescript
 </br>
@@ -78,6 +78,7 @@ npm i react-favicon
 
 # Express
 <b>Create Express project</b>
+<br>
 npx express-generator --no-view
 </br>
 
