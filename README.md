@@ -2,14 +2,55 @@
 
 
 
-# Github
+# GitHub
+
 <b>Force merge unsynced branch to main</b>
 </br>
 --allow-unrelated-histories
 
 
 
+# VS Code Extensions
+
+<b>Auto Rename Tag</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+</br>
+
+<b>Reactjs code snippets</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
+</br>
+
+<b>REST Client</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+</br>
+
+<b>Sass</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
+</br>
+
+<b>vscode-styled-components</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
+</br>
+
+<b>GitHub Copilot</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+</br>
+
+<b>Angular Language Service</b>
+</br>
+https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+</br>
+
+
+
 # CSS
+
 <b>Center element vertically and horizontally</b>
 </br>
 position: absolute;
@@ -26,6 +67,7 @@ transform: translate(-50%, -50%);
 
 
 # Links
+
 <b>Railway</b>
 </br>
 https://railway.app/
@@ -134,6 +176,7 @@ https://codepen.io/sosuke/pen/Pjoqqp
 
 
 # React
+
 <b>Create React project with Typescript</b>
 </br>
 npx create-react-app . --template typescript
@@ -207,6 +250,7 @@ npm i react-favicon
 
 
 # Node
+
 <b>Create Express project</b>
 <br>
 npx express-generator --no-view
