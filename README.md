@@ -1,9 +1,13 @@
 # Useful Stuff
 
+
+
 # Github
 <b>Merge unsynced branch to main</b>
 </br>
 --allow-unrelated-histories
+
+
 
 # CSS
 <b>Center element vertically and horizontally</b>
@@ -19,8 +23,15 @@ top: 50%;
 transform: translate(-50%, -50%);
 </br>
 
+
+
 # Links
-<b>Flexbox</b> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+<b>Flexbox</b>
+</br>
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+</br>
+
+
 
 # React
 <b>Create React project with Typescript</b>
@@ -93,6 +104,8 @@ npm i body-scroll-lock
 npm i react-favicon
 </br>
 
+
+
 # Express
 <b>Create Express project</b>
 <br>
@@ -130,7 +143,8 @@ npm i puppeteer
 </br>
 
 
-# Mongo-DB:
+
+# Mongo-DB
 <b>MongoDB</b>
 </br>
 npm i mongodb
@@ -141,8 +155,9 @@ npm i mongodb
 npm i mongoose
 </br>
 
-# MySQL:
 
+
+# MySQL
 <b>MySQL</b>
 </br>
 npm i mysql2
