@@ -1,7 +1,7 @@
 # Useful Stuff
 
 # Github
-Merge unsynced branch to main:
+<b>Merge unsynced branch to main</b>
 </br>
 --allow-unrelated-histories
 
