@@ -11,6 +11,20 @@
 npx create-react-app . --template typescript
 </br>
 
+# CSS
+<b>Center element vertically and horizontally</b>
+</br>
+position: absolute;
+</br>
+left: 50%;
+</br>
+top: 50%;
+</br>
+-webkit-transform: translate(-50%, -50%);
+</br>
+transform: translate(-50%, -50%);
+</br>
+
 <b>Router</b>
 </br>
 npm i react-router-dom
