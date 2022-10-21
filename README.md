@@ -5,12 +5,6 @@
 </br>
 --allow-unrelated-histories
 
-# React
-<b>Create React project with Typescript</b>
-</br>
-npx create-react-app . --template typescript
-</br>
-
 # CSS
 <b>Center element vertically and horizontally</b>
 </br>
@@ -23,6 +17,12 @@ top: 50%;
 -webkit-transform: translate(-50%, -50%);
 </br>
 transform: translate(-50%, -50%);
+</br>
+
+# React
+<b>Create React project with Typescript</b>
+</br>
+npx create-react-app . --template typescript
 </br>
 
 <b>Router</b>
