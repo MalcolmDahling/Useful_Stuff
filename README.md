@@ -113,7 +113,7 @@ npm i puppeteer
 </br>
 
 
-# MONGO-DB:
+# Mongo-DB:
 <b>MongoDB</b>
 </br>
 npm i mongodb
@@ -124,7 +124,7 @@ npm i mongodb
 npm i mongoose
 </br>
 
-# MYSQL:
+# MySQL:
 
 <b>MySQL</b>
 </br>
