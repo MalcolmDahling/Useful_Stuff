@@ -206,7 +206,7 @@ npm i react-favicon
 
 
 
-# Express
+# Node
 <b>Create Express project</b>
 <br>
 npx express-generator --no-view
@@ -242,9 +242,6 @@ npm i socket.io
 npm i puppeteer
 </br>
 
-
-
-# Mongo-DB
 <b>MongoDB</b>
 </br>
 npm i mongodb
@@ -255,9 +252,6 @@ npm i mongodb
 npm i mongoose
 </br>
 
-
-
-# MySQL
 <b>MySQL</b>
 </br>
 npm i mysql2
