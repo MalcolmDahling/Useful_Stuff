@@ -26,9 +26,109 @@ transform: translate(-50%, -50%);
 
 
 # Links
+<b>Railway</b>
+</br>
+https://railway.app/
+</br>
+
 <b>Flexbox</b>
 </br>
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+</br>
+
+<b>Google Fonts</b>
+</br>
+https://fonts.google.com/
+</br>
+
+<b>Google Icons</b>
+</br>
+https://fonts.google.com/icons
+</br>
+
+<b>Adobe Color Picker</b>
+</br>
+https://color.adobe.com/sv/create/color-wheel
+</br>
+
+<b>Deploy React app to Github Pages</b>
+</br>
+https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+</br>
+
+<b>SVGator</b>
+</br>
+https://app.svgator.com/
+</br>
+
+<b>React useRef hook</b>
+</br>
+https://www.youtube.com/watch?v=yCS2m01bQ6w
+</br>
+
+<b>Box shadow generator</b>
+</br>
+https://html-css-js.com/css/generator/box-shadow/
+</br>
+
+<b>Test website at different resolutions</b>
+</br>
+https://screenfly.org/
+</br>
+
+<b>Screen sizes</b>
+</br>
+https://screensiz.es/
+</br>
+
+<b>Deploy to Heroku</b>
+</br>
+https://devcenter.heroku.com/articles/git
+</br>
+
+<b>Delete commit history</b>
+</br>
+https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github
+</br>
+
+<b>Gitignore not working</b>
+</br>
+https://stackoverflow.com/questions/25436312/gitignore-not-working
+</br>
+
+<b>Awwwards</b>
+</br>
+https://www.awwwards.com/
+</br>
+
+<b>Are my colors accessible?</b>
+</br>
+https://www.aremycolorsaccessible.com/
+</br>
+
+<b>Regex generator</b>
+</br>
+https://regex-generator.olafneumann.org/
+</br>
+
+<b>Enable Cors</b>
+</br>
+https://enable-cors.org/index.html
+</br>
+
+<b>SVG spinners</b>
+</br>
+https://github.com/n3r4zzurr0/svg-spinners
+</br>
+
+<b>CSS color filter generator</b>
+</br>
+https://angel-rs.github.io/css-color-filter-generator/
+</br>
+
+<b>CSS filter colors</b>
+</br>
+https://codepen.io/sosuke/pen/Pjoqqp
 </br>
 
 
