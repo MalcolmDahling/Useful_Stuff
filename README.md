@@ -11,92 +11,121 @@
 npx create-react-app . --template typescript
 </br>
 
-Router
+<b>Router</b>
 </br>
 npm i react-router-dom
 </br>
 
-Sass
+<b>Sass</b>
 </br>
 npm i sass
 </br>
 
-Axios
+<b>Axios</b>
 </br>
 npm i axios
 </br>
 
-NanoId
+<b>NanoId</b>
 </br>
 npm i nanoid
 </br>
 
-GH-Pages
+<b>GH-Pages</b>
 </br>
 npm i gh-pages --save-dev
 </br>
 
-React Helmet Async
+<b>React Helmet Async</b>
 </br>
 npm i react-helmet-async
 </br>
 
-TinyMCE
+<b>TinyMCE</b>
 </br>
 npm i --save @tinymce/tinymce-react
 </br>
 
-Socket.io
+<b>Socket.io</b>
 </br>
 npm i socket.io-client
 </br>
 
-UseInterval hook
+<b>UseInterval hook</b>
 </br>
 npm i @use-it/interval
 </br>
 
-Typewriter Effect
+<b>Typewriter Effect</b>
 </br>
 npm i typewriter-effect
 </br>
 
-GreenSock Animation Platform 
+<b>GreenSock Animation Platform </b>
 </br>
 npm i react-gsap
 </br>
 
-Body Scroll Lock
+<b>Body Scroll Lock</b>
 </br>
 npm i body-scroll-lock
 </br>
 
-Raect Favicon
+<b>Raect Favicon</b>
 </br>
 npm i react-favicon
 </br>
 
 # Express
+<b>Create Express project</b>
 npx express-generator --no-view
+</br>
+
+<b>Nodemon</b>
 </br>
 npm i nodemon
 </br>
+
+<b>CryptoJS</b>
+</br>
 npm i cryptojs
+</br>
+
+<b>Cors</b>
 </br>
 npm i cors
 </br>
+
+<b>Dotenv</b>
+</br>
 npm i dotenv
+</br>
+
+<b>Socket.io</b>
 </br>
 npm i socket.io
 </br>
+
+<b>Puppeteer</b>
+</br>
 npm i puppeteer
 </br>
-nodemon start
+
 
 # MONGO-DB:
+<b>MongoDB</b>
+</br>
 npm i mongodb
 </br>
+
+<b>Mongoose</b>
+</br>
 npm i mongoose
+</br>
 
 # MYSQL:
+
+<b>MySQL</b>
+</br>
 npm i mysql2
+</br>
