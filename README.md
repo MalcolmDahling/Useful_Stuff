@@ -6,8 +6,11 @@ Merge unsynced branch to main:
 --allow-unrelated-histories
 
 # React
+Create project
+</br>
 npx create-react-app . --template typescript
 </br>
+
 npm i react-router-dom
 </br>
 npm i sass
