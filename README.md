@@ -3,7 +3,7 @@
 
 
 # Github
-<b>Merge unsynced branch to main</b>
+<b>Force merge unsynced branch to main</b>
 </br>
 --allow-unrelated-histories
 
