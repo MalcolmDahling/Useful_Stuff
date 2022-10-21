@@ -1,10 +1,10 @@
 # Useful Stuff
 
-#Github
+# Github
 Merge unsynced branch to main:
 --allow-unrelated-histories
 
-#React
+# React
 npx create-react-app . --template typescript
 npm i react-router-dom
 npm i sass
