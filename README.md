@@ -249,6 +249,15 @@ npm i react-favicon
 
 
 
+# Next
+
+<b>Create Next project with Typescript</b>
+</br>
+npx create-next-app@latest . --ts
+</br>
+
+
+
 # Node
 
 <b>Create Express project</b>
