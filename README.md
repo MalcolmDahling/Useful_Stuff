@@ -252,7 +252,7 @@ npm i react-favicon
 npm i react-hook-form
 </br>
 
-<b>Recoil</b>
+<b>Recoil.js</b>
 </br>
 npm i recoil
 </br>
