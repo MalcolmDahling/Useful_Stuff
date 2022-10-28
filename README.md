@@ -73,9 +73,14 @@ transform: translate(-50%, -50%);
 https://railway.app/
 </br>
 
-<b>Flexbox</b>
+<b>Flexbox Guide</b>
 </br>
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+</br>
+
+<b>Grid Guide</b>
+</br>
+https://css-tricks.com/snippets/css/complete-guide-grid/
 </br>
 
 <b>Google Fonts</b>
