@@ -257,6 +257,11 @@ npm i react-hook-form
 npm i recoil
 </br>
 
+<b>Stitches</b>
+</br>
+npm install @stitches/react
+</br>
+
 
 
 # Next
