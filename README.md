@@ -12,16 +12,8 @@
 
 # VS Code Extensions
 
-<b>Auto Rename Tag</b>
-</br>
-https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-</br>
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
-
-<b>Reactjs code snippets</b>
-</br>
-https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets
-</br>
+<a href="https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets">Reactjs code snippets</a>
 
 <b>REST Client</b>
 </br>
