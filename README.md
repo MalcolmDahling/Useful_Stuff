@@ -13,31 +13,18 @@
 # VS Code Extensions
 
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
+</br>
 <a href="https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets">Reactjs code snippets</a>
-
-<b>REST Client</b>
 </br>
-https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+<a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client">REST Client</a>
 </br>
-
-<b>Sass</b>
+<a href="https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented">Sass</a>
 </br>
-https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
+<a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-component</a>
 </br>
-
-<b>vscode-styled-components</b>
+<a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">GitHub Copilot</a>
 </br>
-https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
-</br>
-
-<b>GitHub Copilot</b>
-</br>
-https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
-</br>
-
-<b>Angular Language Service</b>
-</br>
-https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+<a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template">Angular Language Service</a>
 </br>
 
 
@@ -60,121 +47,31 @@ transform: translate(-50%, -50%);
 
 
 # Links
+<a href="https://railway.app/">Railway</a></br>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Flexbox Guide</a></br>
+<a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid Guide</a></br>
+<a href="https://fonts.google.com/">Google Fonts</a></br>
+<a href="https://fonts.google.com/icons">>Google Icons</a></br>
+<a href="https://iconify.design/">Iconify</a></br>
+<a href="https://color.adobe.com/sv/create/color-wheel">Adobe Color Picker</a></br>
+<a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">Deploy React app to Github Pages</a></br>
+<a href="https://app.svgator.com/"></a>SVGator</br>
+<a href="https://www.youtube.com/watch?v=yCS2m01bQ6w"></a>React useRef hook</br>
+<a href="https://html-css-js.com/css/generator/box-shadow/"></a>Box shadow generator</br>
+<a href="https://screenfly.org/"></a>Test website at different resolutions</br>
+<a href="https://screensiz.es/"></a>Screen sizes</br>
+<a href="https://devcenter.heroku.com/articles/git"></a>Deploy to Heroku</br>
+<a href="https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github"></a>Delete commit history</br>
+<a href="https://stackoverflow.com/questions/25436312/gitignore-not-working"></a>Gitignore not working</br>
+<a href="https://www.awwwards.com/"></a>Awwwards</br>
+<a href="https://www.aremycolorsaccessible.com/"></a>Are my colors accessible?</br>
+<a href="https://regex-generator.olafneumann.org/"></a>Regex generator</br>
+<a href="https://enable-cors.org/index.html"></a>Enable Cors</br>
+<a href="https://github.com/n3r4zzurr0/svg-spinners"></a>SVG spinners</br>
+<a href="https://angel-rs.github.io/css-color-filter-generator/"></a>CSS color filter generator</br>
+<a href="https://codepen.io/sosuke/pen/Pjoqqp"></a></br>
+<a href=""></a>CSS filter colors</br>
 
-<b>Railway</b>
-</br>
-https://railway.app/
-</br>
-
-<b>Flexbox Guide</b>
-</br>
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-</br>
-
-<b>Grid Guide</b>
-</br>
-https://css-tricks.com/snippets/css/complete-guide-grid/
-</br>
-
-<b>Google Fonts</b>
-</br>
-https://fonts.google.com/
-</br>
-
-<b>Google Icons</b>
-</br>
-https://fonts.google.com/icons
-</br>
-
-<b>Adobe Color Picker</b>
-</br>
-https://color.adobe.com/sv/create/color-wheel
-</br>
-
-<b>Deploy React app to Github Pages</b>
-</br>
-https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
-</br>
-
-<b>SVGator</b>
-</br>
-https://app.svgator.com/
-</br>
-
-<b>React useRef hook</b>
-</br>
-https://www.youtube.com/watch?v=yCS2m01bQ6w
-</br>
-
-<b>Box shadow generator</b>
-</br>
-https://html-css-js.com/css/generator/box-shadow/
-</br>
-
-<b>Test website at different resolutions</b>
-</br>
-https://screenfly.org/
-</br>
-
-<b>Screen sizes</b>
-</br>
-https://screensiz.es/
-</br>
-
-<b>Deploy to Heroku</b>
-</br>
-https://devcenter.heroku.com/articles/git
-</br>
-
-<b>Delete commit history</b>
-</br>
-https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github
-</br>
-
-<b>Gitignore not working</b>
-</br>
-https://stackoverflow.com/questions/25436312/gitignore-not-working
-</br>
-
-<b>Awwwards</b>
-</br>
-https://www.awwwards.com/
-</br>
-
-<b>Are my colors accessible?</b>
-</br>
-https://www.aremycolorsaccessible.com/
-</br>
-
-<b>Regex generator</b>
-</br>
-https://regex-generator.olafneumann.org/
-</br>
-
-<b>Enable Cors</b>
-</br>
-https://enable-cors.org/index.html
-</br>
-
-<b>SVG spinners</b>
-</br>
-https://github.com/n3r4zzurr0/svg-spinners
-</br>
-
-<b>CSS color filter generator</b>
-</br>
-https://angel-rs.github.io/css-color-filter-generator/
-</br>
-
-<b>CSS filter colors</b>
-</br>
-https://codepen.io/sosuke/pen/Pjoqqp
-</br>
-
-<b>Iconify</b>
-</br>
-https://iconify.design/
-</br>
 
 
 # React
