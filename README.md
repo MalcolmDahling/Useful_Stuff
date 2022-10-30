@@ -16,6 +16,7 @@
 </br>
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 </br>
+<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
 
 <b>Reactjs code snippets</b>
 </br>
