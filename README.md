@@ -115,7 +115,7 @@ npm i react-helmet-async
 npm i --save @tinymce/tinymce-react
 </br>
 
-<b>Socket.io</b>
+<b>Socket.io Client</b>
 </br>
 npm i socket.io-client
 </br>
