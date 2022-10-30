@@ -51,7 +51,7 @@ transform: translate(-50%, -50%);
 <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Flexbox Guide</a></br>
 <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid Guide</a></br>
 <a href="https://fonts.google.com/">Google Fonts</a></br>
-<a href="https://fonts.google.com/icons">>Google Icons</a></br>
+<a href="https://fonts.google.com/icons">Google Icons</a></br>
 <a href="https://iconify.design/">Iconify</a></br>
 <a href="https://color.adobe.com/sv/create/color-wheel">Adobe Color Picker</a></br>
 <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">Deploy React app to Github Pages</a></br>
