@@ -55,22 +55,21 @@ transform: translate(-50%, -50%);
 <a href="https://iconify.design/">Iconify</a></br>
 <a href="https://color.adobe.com/sv/create/color-wheel">Adobe Color Picker</a></br>
 <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">Deploy React app to Github Pages</a></br>
-<a href="https://app.svgator.com/"></a>SVGator</br>
-<a href="https://www.youtube.com/watch?v=yCS2m01bQ6w"></a>React useRef hook</br>
-<a href="https://html-css-js.com/css/generator/box-shadow/"></a>Box shadow generator</br>
-<a href="https://screenfly.org/"></a>Test website at different resolutions</br>
-<a href="https://screensiz.es/"></a>Screen sizes</br>
-<a href="https://devcenter.heroku.com/articles/git"></a>Deploy to Heroku</br>
-<a href="https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github"></a>Delete commit history</br>
-<a href="https://stackoverflow.com/questions/25436312/gitignore-not-working"></a>Gitignore not working</br>
-<a href="https://www.awwwards.com/"></a>Awwwards</br>
-<a href="https://www.aremycolorsaccessible.com/"></a>Are my colors accessible?</br>
-<a href="https://regex-generator.olafneumann.org/"></a>Regex generator</br>
-<a href="https://enable-cors.org/index.html"></a>Enable Cors</br>
-<a href="https://github.com/n3r4zzurr0/svg-spinners"></a>SVG spinners</br>
-<a href="https://angel-rs.github.io/css-color-filter-generator/"></a>CSS color filter generator</br>
-<a href="https://codepen.io/sosuke/pen/Pjoqqp"></a></br>
-<a href=""></a>CSS filter colors</br>
+<a href="https://app.svgator.com/">SVGator</a></br>
+<a href="https://www.youtube.com/watch?v=yCS2m01bQ6w">React useRef hook</a></br>
+<a href="https://html-css-js.com/css/generator/box-shadow/">Box shadow generator</a></br>
+<a href="https://screenfly.org/">Test website at different resolutions</a></br>
+<a href="https://screensiz.es/">Screen sizes</a></br>
+<a href="https://devcenter.heroku.com/articles/git">Deploy to Heroku</a></br>
+<a href="https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github">Delete commit history</a></br>
+<a href="https://stackoverflow.com/questions/25436312/gitignore-not-working">Gitignore not working</a></br>
+<a href="https://www.awwwards.com/">Awwwards</a></br>
+<a href="https://www.aremycolorsaccessible.com/">Are my colors accessible?</a></br>
+<a href="https://regex-generator.olafneumann.org/">Regex generator</a></br>
+<a href="https://enable-cors.org/index.html">Enable Cors</a></br>
+<a href="https://github.com/n3r4zzurr0/svg-spinners">SVG spinners</a></br>
+<a href="https://angel-rs.github.io/css-color-filter-generator/">CSS color filter generator</a></br>
+<a href="https://codepen.io/sosuke/pen/Pjoqqp">CSS filter colors</a></br>
 
 
 
