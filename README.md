@@ -169,6 +169,11 @@ npm install @stitches/react
 npx create-next-app@latest . --ts
 </br>
 
+<b>Next Fonts</b>
+</br>
+npm i @next/font
+</br>
+
 
 
 # Node
