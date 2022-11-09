@@ -160,7 +160,7 @@ npm i recoil
 npm install @stitches/react
 </br>
 
-<b>Moment js</b>
+<b>Moment.js</b>
 </br>
 npm i moment --save
 </br>
