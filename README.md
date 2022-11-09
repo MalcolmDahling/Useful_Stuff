@@ -157,7 +157,7 @@ npm i recoil
 
 <b>Stitches</b>
 </br>
-npm install @stitches/react
+npm i @stitches/react
 </br>
 
 <b>Moment.js</b>
