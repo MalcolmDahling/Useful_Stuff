@@ -179,9 +179,9 @@ npm i use-breakpoint
 npx create-next-app@latest . --ts
 </br>
 
-<b>Next Fonts</b>
+<b>Duplicate atom key error</b>
 </br>
-npm i @next/font
+Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
 </br>
 
 
