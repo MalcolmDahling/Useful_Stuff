@@ -70,6 +70,7 @@ transform: translate(-50%, -50%);
 <a href="https://github.com/n3r4zzurr0/svg-spinners">SVG spinners</a></br>
 <a href="https://angel-rs.github.io/css-color-filter-generator/">CSS color filter generator</a></br>
 <a href="https://codepen.io/sosuke/pen/Pjoqqp">CSS filter colors</a></br>
+<a href="https://cssgradient.io/">Generate CSS gradients</a>
 
 
 
