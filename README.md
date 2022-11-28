@@ -173,7 +173,7 @@ npm i use-breakpoint
 
 <b>react-slick</b>
 <br/>
-https://www.npmjs.com/package/react-slick
+npm i react-slick
 <br/>
 
 
