@@ -173,7 +173,7 @@ npm i use-breakpoint
 
 <b>react-slick</b>
 <br/>
-npm i react-slick
+npm i react-slick --save
 <br/>
 npm i --save @types/react-slick
 <br/>
