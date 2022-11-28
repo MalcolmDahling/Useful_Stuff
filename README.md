@@ -171,6 +171,10 @@ npm i moment --save
 npm i use-breakpoint
 </br>
 
+<b>react-slick</b>
+<\br>
+https://www.npmjs.com/package/react-slick
+<\br>
 
 
 # Next
