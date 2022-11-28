@@ -174,6 +174,7 @@ npm i use-breakpoint
 <b>react-slick</b>
 <br/>
 npm i react-slick
+<br/>
 npm i --save @types/react-slick
 <br/>
 
