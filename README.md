@@ -9,7 +9,7 @@
 --allow-unrelated-histories
 
 <b>Refresh .gitignore</b>
-</br>
+<br/>
 1. Make changes in .gitignore file.
 2. git rm -r --cached .
 3. git add .
@@ -20,163 +20,163 @@
 # VS Code Extensions
 
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets">Reactjs code snippets</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client">REST Client</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented">Sass</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-component</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">GitHub Copilot</a>
-</br>
+<br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template">Angular Language Service</a>
-</br>
+<br/>
 
 
 
 # CSS
 
 <b>Center element vertically and horizontally</b>
-</br>
+<br/>
 position: absolute;
-</br>
+<br/>
 left: 50%;
-</br>
+<br/>
 top: 50%;
-</br>
+<br/>
 -webkit-transform: translate(-50%, -50%);
-</br>
+<br/>
 transform: translate(-50%, -50%);
-</br>
+<br/>
 
 
 
 # Links
-<a href="https://railway.app/">Railway</a></br>
-<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Flexbox Guide</a></br>
-<a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid Guide</a></br>
-<a href="https://fonts.google.com/">Google Fonts</a></br>
-<a href="https://fonts.google.com/icons">Google Icons</a></br>
-<a href="https://iconify.design/">Iconify</a></br>
-<a href="https://color.adobe.com/sv/create/color-wheel">Adobe Color Picker</a></br>
-<a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">Deploy React app to Github Pages</a></br>
-<a href="https://app.svgator.com/">SVGator</a></br>
-<a href="https://www.youtube.com/watch?v=yCS2m01bQ6w">React useRef hook</a></br>
-<a href="https://html-css-js.com/css/generator/box-shadow/">Box shadow generator</a></br>
-<a href="https://screenfly.org/">Test website at different resolutions</a></br>
-<a href="https://screensiz.es/">Screen sizes</a></br>
-<a href="https://devcenter.heroku.com/articles/git">Deploy to Heroku</a></br>
-<a href="https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github">Delete commit history</a></br>
-<a href="https://stackoverflow.com/questions/25436312/gitignore-not-working">Gitignore not working</a></br>
-<a href="https://www.awwwards.com/">Awwwards</a></br>
-<a href="https://www.aremycolorsaccessible.com/">Are my colors accessible?</a></br>
-<a href="https://regex-generator.olafneumann.org/">Regex generator</a></br>
-<a href="https://enable-cors.org/index.html">Enable Cors</a></br>
-<a href="https://github.com/n3r4zzurr0/svg-spinners">SVG spinners</a></br>
-<a href="https://angel-rs.github.io/css-color-filter-generator/">CSS color filter generator</a></br>
-<a href="https://codepen.io/sosuke/pen/Pjoqqp">CSS filter colors</a></br>
-<a href="https://cssgradient.io/">Generate CSS gradients</a>
+<a href="https://railway.app/">Railway</a><br/>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Flexbox Guide</a><br/>
+<a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid Guide</a><br/>
+<a href="https://fonts.google.com/">Google Fonts</a><br/>
+<a href="https://fonts.google.com/icons">Google Icons</a><br/>
+<a href="https://iconify.design/">Iconify</a><br/>
+<a href="https://color.adobe.com/sv/create/color-wheel">Adobe Color Picker</a><br/>
+<a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">Deploy React app to Github Pages</a><br/>
+<a href="https://app.svgator.com/">SVGator</a><br/>
+<a href="https://www.youtube.com/watch?v=yCS2m01bQ6w">React useRef hook</a><br/>
+<a href="https://html-css-js.com/css/generator/box-shadow/">Box shadow generator</a><br/>
+<a href="https://screenfly.org/">Test website at different resolutions</a><br/>
+<a href="https://screensiz.es/">Screen sizes</a><br/>
+<a href="https://devcenter.heroku.com/articles/git">Deploy to Heroku</a><br/>
+<a href="https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github">Delete commit history</a><br/>
+<a href="https://stackoverflow.com/questions/25436312/gitignore-not-working">Gitignore not working</a><br/>
+<a href="https://www.awwwards.com/">Awwwards</a><br/>
+<a href="https://www.aremycolorsaccessible.com/">Are my colors accessible?</a><br/>
+<a href="https://regex-generator.olafneumann.org/">Regex generator</a><br/>
+<a href="https://enable-cors.org/index.html">Enable Cors</a><br/>
+<a href="https://github.com/n3r4zzurr0/svg-spinners">SVG spinners</a><br/>
+<a href="https://angel-rs.github.io/css-color-filter-generator/">CSS color filter generator</a><br/>
+<a href="https://codepen.io/sosuke/pen/Pjoqqp">CSS filter colors</a><br/>
+<a href="https://cssgradient.io/">Generate CSS gradients</a><br/>
 
 
 
 # React
 
 <b>Create React project with Typescript</b>
-</br>
+<br/>
 npx create-react-app . --template typescript
-</br>
+<br/>
 
 <b>Router</b>
-</br>
+<br/>
 npm i react-router-dom
-</br>
+<br/>
 
 <b>Sass</b>
-</br>
+<br/>
 npm i sass
-</br>
+<br/>
 
 <b>Axios</b>
-</br>
+<br/>
 npm i axios
-</br>
+<br/>
 
 <b>NanoId</b>
-</br>
+<br/>
 npm i nanoid
-</br>
+<br/>
 
 <b>GH-Pages</b>
-</br>
+<br/>
 npm i gh-pages --save-dev
-</br>
+<br/>
 
 <b>React Helmet Async</b>
-</br>
+<br/>
 npm i react-helmet-async
-</br>
+<br/>
 
 <b>TinyMCE</b>
-</br>
+<br/>
 npm i --save @tinymce/tinymce-react
-</br>
+<br/>
 
 <b>Socket.io Client</b>
-</br>
+<br/>
 npm i socket.io-client
-</br>
+<br/>
 
 <b>UseInterval hook</b>
-</br>
+<br/>
 npm i @use-it/interval
-</br>
+<br/>
 
 <b>Typewriter Effect</b>
-</br>
+<br/>
 npm i typewriter-effect
-</br>
+<br/>
 
 <b>GreenSock Animation Platform </b>
-</br>
+<br/>
 npm i react-gsap
-</br>
+<br/>
 
 <b>Body Scroll Lock</b>
-</br>
+<br/>
 npm i body-scroll-lock
-</br>
+<br/>
 
 <b>Raect Favicon</b>
-</br>
+<br/>
 npm i react-favicon
-</br>
+<br/>
 
 <b>React Hook Form</b>
-</br>
+<br/>
 npm i react-hook-form
-</br>
+<br/>
 
 <b>Recoil.js</b>
-</br>
+<br/>
 npm i recoil
-</br>
+<br/>
 
 <b>Stitches</b>
-</br>
+<br/>
 npm i @stitches/react
-</br>
+<br/>
 
 <b>Moment.js</b>
-</br>
+<br/>
 npm i moment --save
-</br>
+<br/>
 
 <b>use-breakpoint</b>
-</br>
+<br/>
 npm i use-breakpoint
-</br>
+<br/>
 
 <b>react-slick</b>
 <br/>
@@ -191,65 +191,65 @@ npm i --save @types/react-slick
 # Next
 
 <b>Create Next project with Typescript</b>
-</br>
+<br/>
 npx create-next-app@latest . --ts
-</br>
+<br/>
 
 <b>Duplicate atom key error</b>
-</br>
+<br/>
 Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
-</br>
+<br/>
 
 
 
 # Node
 
 <b>Create Express project</b>
-<br>
+<br/>
 npx express-generator --no-view
-</br>
+<br/>
 
 <b>Nodemon</b>
-</br>
+<br/>
 npm i nodemon
-</br>
+<br/>
 
 <b>CryptoJS</b>
-</br>
+<br/>
 npm i cryptojs
-</br>
+<br/>
 
 <b>Cors</b>
-</br>
+<br/>
 npm i cors
-</br>
+<br/>
 
 <b>Dotenv</b>
-</br>
+<br/>
 npm i dotenv
-</br>
+<br/>
 
 <b>Socket.io</b>
-</br>
+<br/>
 npm i socket.io
-</br>
+<br/>
 
 <b>Puppeteer</b>
-</br>
+<br/>
 npm i puppeteer
-</br>
+<br/>
 
 <b>MongoDB</b>
-</br>
+<br/>
 npm i mongodb
-</br>
+<br/>
 
 <b>Mongoose</b>
-</br>
+<br/>
 npm i mongoose
-</br>
+<br/>
 
 <b>MySQL</b>
-</br>
+<br/>
 npm i mysql2
-</br>
+<br/>
