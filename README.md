@@ -254,6 +254,7 @@ npm i mysql2
 <br/>
 <a href="https://www.npmjs.com/package/eslint-config-airbnb-typescript"><b>eslint-config-airbnb-typescript</b></a>
 <br/>
+
 <p>
 .eslintrc.json:<br/>
   {<br/>
@@ -261,3 +262,6 @@ npm i mysql2
     "plugins": ["prettier"]<br/>
   }<br/>
 </p>
+<br/>
+
+<a href="https://gist.github.com/bradtraversy/aab26d1e8983d9f8d79be1a9ca894ab4"><b>VSCode - ESLint, Prettier & Airbnb Setup</b></a>
