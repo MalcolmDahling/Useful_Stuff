@@ -88,6 +88,11 @@ transform: translate(-50%, -50%);
 npx create-react-app . --template typescript
 <br/>
 
+<b>Duplicate atom key error</b>
+<br/>
+Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
+<br/>
+
 <a href="https://www.npmjs.com/package/react-router-dom"><b>Router</b></a>
 <br/>
 npm i react-router-dom
@@ -189,12 +194,6 @@ npm i --save @types/react-slick
 <br/>
 npx create-next-app@latest . --ts
 <br/>
-
-<b>Duplicate atom key error</b>
-<br/>
-Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
-<br/>
-
 
 
 # Node
