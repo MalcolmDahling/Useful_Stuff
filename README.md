@@ -83,47 +83,47 @@ transform: translate(-50%, -50%);
 
 # React
 
-<b><a href="https://www.npmjs.com/package/typescript">Create React project with Typescript</a></b>
+<b>Create React project with Typescript</b>
 <br/>
 npx create-react-app . --template typescript
 <br/>
 
-<b>Router</b>
+<a href="https://www.npmjs.com/package/react-router-dom"><b>Router</b></a>
 <br/>
 npm i react-router-dom
 <br/>
 
-<b>Sass</b>
+<a href="https://www.npmjs.com/package/sass"><b>Sass</b></a>
 <br/>
 npm i sass
 <br/>
 
-<b>Axios</b>
+<a href="https://www.npmjs.com/package/axios"<b>Axios</b></a>
 <br/>
 npm i axios
 <br/>
 
-<b>NanoId</b>
+<a href="https://www.npmjs.com/package/nanoid"><b>NanoId</b></a>
 <br/>
 npm i nanoid
 <br/>
 
-<b>GH-Pages</b>
+<a href="https://www.npmjs.com/package/gh-pages"><b>GH-Pages</b></a>
 <br/>
 npm i gh-pages --save-dev
 <br/>
 
-<b>React Helmet Async</b>
+<a href="https://www.npmjs.com/package/react-helmet-async"><b>React Helmet Async</b></a>
 <br/>
 npm i react-helmet-async
 <br/>
 
-<b>TinyMCE</b>
+<a href="https://www.npmjs.com/package/tinymce"><b>TinyMCE</b></a>
 <br/>
 npm i --save @tinymce/tinymce-react
 <br/>
 
-<b>Socket.io Client</b>
+<a href="https://www.npmjs.com/package/socket.io-client"><b>Socket.io Client</b></a>
 <br/>
 npm i socket.io-client
 <br/>
@@ -133,52 +133,47 @@ npm i socket.io-client
 npm i @use-it/interval
 <br/>
 
-<b>Typewriter Effect</b>
+<a href="https://www.npmjs.com/package/typewriter-effect"><b>Typewriter Effect</b></a>
 <br/>
 npm i typewriter-effect
 <br/>
 
-<b>GreenSock Animation Platform </b>
+<a href="https://www.npmjs.com/package/react-gsap"><b>GreenSock Animation Platform</b></a>
 <br/>
 npm i react-gsap
 <br/>
 
-<b>Body Scroll Lock</b>
+<a href="https://www.npmjs.com/package/body-scroll-lock"><b>Body Scroll Lock</b></a>
 <br/>
 npm i body-scroll-lock
 <br/>
 
-<b>Raect Favicon</b>
-<br/>
-npm i react-favicon
-<br/>
-
-<b>React Hook Form</b>
+<a href="https://www.npmjs.com/package/react-hook-form"><b>React Hook Form</b></a>
 <br/>
 npm i react-hook-form
 <br/>
 
-<b>Recoil.js</b>
+<a href="https://www.npmjs.com/package/recoil"><b>Recoil.js</b></a>
 <br/>
 npm i recoil
 <br/>
 
-<b>Stitches</b>
+<a href="https://www.npmjs.com/package/@stitches/react"><b>Stitches</b></a>
 <br/>
 npm i @stitches/react
 <br/>
 
-<b>Moment.js</b>
+<a href="https://www.npmjs.com/package/moment"><b>Moment.js</b></a>
 <br/>
 npm i moment --save
 <br/>
 
-<b>use-breakpoint</b>
+<a href="https://www.npmjs.com/package/use-breakpoint"><b>use-breakpoint</b></a>
 <br/>
 npm i use-breakpoint
 <br/>
 
-<b>react-slick</b>
+<a href="https://www.npmjs.com/package/react-slick"><b>react-slick</b></a>
 <br/>
 npm i slick-carousel --save
 <br/>
@@ -209,47 +204,47 @@ Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
 npx express-generator --no-view
 <br/>
 
-<b>Nodemon</b>
+<a href="https://www.npmjs.com/package/nodemon"><b>Nodemon</b></a>
 <br/>
 npm i nodemon
 <br/>
 
-<b>CryptoJS</b>
+<a href="https://www.npmjs.com/package/crypto-js"><b>CryptoJS</b></a>
 <br/>
 npm i cryptojs
 <br/>
 
-<b>Cors</b>
+<a href="https://www.npmjs.com/package/cors"><b>Cors</b></a>
 <br/>
 npm i cors
 <br/>
 
-<b>Dotenv</b>
+<a href="https://www.npmjs.com/package/dotenv"><b>Dotenv</b></a>
 <br/>
 npm i dotenv
 <br/>
 
-<b>Socket.io</b>
+<a href="https://www.npmjs.com/package/socket.io"><b>Socket.io</b></a>
 <br/>
 npm i socket.io
 <br/>
 
-<b>Puppeteer</b>
+<a href="https://www.npmjs.com/package/puppeteer"><b>Puppeteer</b></a>
 <br/>
 npm i puppeteer
 <br/>
 
-<b>MongoDB</b>
+<a href="https://www.npmjs.com/package/mongodb"><b>MongoDB</b></a>
 <br/>
 npm i mongodb
 <br/>
 
-<b>Mongoose</b>
+<a href="https://www.npmjs.com/package/mongoose"><b>Mongoose</b></a>
 <br/>
 npm i mongoose
 <br/>
 
-<b>MySQL</b>
+<a href="https://www.npmjs.com/package/mysql2"><b>MySQL</b></a>
 <br/>
 npm i mysql2
 <br/>
