@@ -83,7 +83,7 @@ transform: translate(-50%, -50%);
 
 # React
 
-<b>Create React project with Typescript</b>
+<a href="https://www.npmjs.com/package/typescript">Create React project with Typescript</a>
 <br/>
 npx create-react-app . --template typescript
 <br/>
