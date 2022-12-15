@@ -4,7 +4,8 @@
 
 # Git
 
-<p><b>Force merge unsynced branch to main</b></p>
+<b>Force merge unsynced branch to main</b>
+<br/>
 --allow-unrelated-histories
 
 <b>Refresh .gitignore</b>
