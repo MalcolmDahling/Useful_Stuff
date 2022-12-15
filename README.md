@@ -128,7 +128,7 @@ npm i --save @tinymce/tinymce-react
 npm i socket.io-client
 <br/>
 
-<b>UseInterval hook</b>
+<a href="https://www.npmjs.com/package/@use-it/interval"><b>UseInterval hook</b></a>
 <br/>
 npm i @use-it/interval
 <br/>
