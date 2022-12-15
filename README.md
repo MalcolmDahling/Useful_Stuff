@@ -247,3 +247,17 @@ npm i mongoose
 <br/>
 npm i mysql2
 <br/>
+
+
+#ESLint
+<a href="https://www.npmjs.com/package/eslint-config-airbnb"><b>eslint-config-airbnb</b></a>
+<br/>
+<a href="https://www.npmjs.com/package/eslint-config-airbnb-typescript"><b>eslint-config-airbnb-typescript</b></a>
+<br/>
+<p>
+.eslintrc.json:
+  {
+    "extends": ["next/core-web-vitals", "airbnb", "airbnb-typescript", "prettier", "plugin:node/recommended"],
+    "plugins": ["prettier"]
+  }
+</p>
