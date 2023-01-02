@@ -186,6 +186,8 @@ npm i react-slick --save
 <br/>
 npm i --save @types/react-slick
 <br/>
+https://github.com/kenwheeler/slick/issues/3271
+<br/>
 
 
 # Next
