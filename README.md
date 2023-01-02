@@ -186,7 +186,7 @@ npm i react-slick --save
 <br/>
 npm i --save @types/react-slick
 <br/>
-https://github.com/kenwheeler/slick/issues/3271
+<a href="https://github.com/kenwheeler/slick/issues/3271">Slick Center Mode - Animations Bug between last and first slide</a>
 <br/>
 
 
