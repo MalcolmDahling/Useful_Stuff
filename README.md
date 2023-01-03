@@ -27,7 +27,7 @@
 <br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented">Sass</a>
 <br/>
-<a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-component</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-components</a>
 <br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">GitHub Copilot</a>
 <br/>
