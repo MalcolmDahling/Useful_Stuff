@@ -256,6 +256,7 @@ npm i mysql2
 <br/>
 npx install-peerdeps --dev eslint-config-airbnb
 <br/>
+
 <a href="https://www.npmjs.com/package/eslint-config-airbnb-typescript"><b>eslint-config-airbnb-typescript</b></a>
 <br/>
 npm i eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin@^5.13.0 @typescript-eslint/parser@^5.0.0 --save-dev
