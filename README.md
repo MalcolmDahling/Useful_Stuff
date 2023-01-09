@@ -91,7 +91,7 @@ npx create-react-app . --template typescript
 
 <b>Duplicate atom key error</b>
 <br/>
-Put RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=false in .env
+Put <b>RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED = false</b> in .env
 <br/>
 
 <a href="https://www.npmjs.com/package/react-router-dom"><b>Router</b></a>
