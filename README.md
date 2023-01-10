@@ -23,7 +23,7 @@
   3. git status.</br>
   Commit your changes after reviewing.</br>
   4. git commit -a -m "Fixing file name casing".</br>
-  5. git push origin master.</br>
+  5. git push</br>
 </p>
 
 
