@@ -20,7 +20,7 @@
 2. git add --all .
 <p>Review that **only** changes staged are renames</p>
 3. git status
-Commit your changes after reviewing
+<p>Commit your changes after reviewing</p>
 4. git commit -a -m "Fixing file name casing"
 5. git push origin master
 
