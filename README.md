@@ -17,13 +17,13 @@
 
 <b>Fix git filename case on whole repo</b>
 <p>
-1. git rm -r --cached .
-2. git add --all .
-Review that **only** changes staged are renames
-3. git status
-Commit your changes after reviewing
-4. git commit -a -m "Fixing file name casing"
-5. git push origin master
+  1. git rm -r --cached .</br>
+  2. git add --all ..</br>
+  Review that **only** changes staged are renames.</br>
+  3. git status.</br>
+  Commit your changes after reviewing.</br>
+  4. git commit -a -m "Fixing file name casing".</br>
+  5. git push origin master.</br>
 </p>
 
 
