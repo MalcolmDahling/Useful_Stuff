@@ -16,13 +16,15 @@
 4. git commit -m "Commit message"
 
 <b>Fix git filename case on whole repo</b>
+<p>
 1. git rm -r --cached .
 2. git add --all .
-<p>Review that **only** changes staged are renames</p>
+Review that **only** changes staged are renames
 3. git status
-<p>Commit your changes after reviewing</p>
+Commit your changes after reviewing
 4. git commit -a -m "Fixing file name casing"
 5. git push origin master
+</p>
 
 
 
