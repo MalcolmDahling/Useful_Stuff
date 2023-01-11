@@ -203,6 +203,11 @@ npm i --save @types/react-slick
 <a href="https://github.com/kenwheeler/slick/issues/3271">Slick Center Mode - Animations Bug between last and first slide</a>
 <br/>
 
+<a href="https://www.npmjs.com/package/react-intersection-observer"><b>react-intersection-observer</b></a>
+<br/>
+npm i react-intersection-observer
+<br/>
+
 
 # Next
 
