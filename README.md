@@ -208,6 +208,10 @@ npm i --save @types/react-slick
 npm i react-intersection-observer
 <br/>
 
+<a href="https://www.npmjs.com/package/throttle-debounce"><b>throttle-debounce</b></a>
+<br/>
+npm install throttle-debounce --save
+<br/>
 
 # Next
 
