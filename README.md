@@ -212,6 +212,8 @@ npm i react-intersection-observer
 <br/>
 npm install throttle-debounce --save
 <br/>
+npm install --save @types/throttle-debounce
+<br/>
 
 # Next
 
