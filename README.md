@@ -215,6 +215,11 @@ npm install throttle-debounce --save
 npm install --save @types/throttle-debounce
 <br/>
 
+<a href="https://www.npmjs.com/package/react-player">react-player</a>
+<br/>
+npm i react-player
+<br/>
+
 # Next
 
 <b>Create Next project with Typescript</b>
