@@ -280,9 +280,9 @@ npm i mongoose
 npm i mysql2
 <br/>
 
-<a href="https://www.npmjs.com/package/nodemailer"><b>nodemailer</b></a>
+<a href="https://www.npmjs.com/package/mailgun.js"><b>mailgun.js</b></a>
 <br/>
-npm i nodemailer
+npm i mailgun.js
 <br/>
 
 
