@@ -280,6 +280,11 @@ npm i mongoose
 npm i mysql2
 <br/>
 
+<a href="https://www.npmjs.com/package/nodemailer"><b>nodemailer</b></a>
+<br/>
+npm i nodemailer
+<br/>
+
 
 # ESLint
 <a href="https://www.npmjs.com/package/eslint-config-airbnb"><b>eslint-config-airbnb</b></a>
