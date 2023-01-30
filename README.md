@@ -220,6 +220,13 @@ npm install --save @types/throttle-debounce
 npm i react-player
 <br/>
 
+<a href="https://www.npmjs.com/package/react-scroll">react-scroll</a>
+<br/>
+npm i react-scroll
+<br/>
+npm i --save @types/react-scroll
+<br/>
+
 # Next
 
 <b>Create Next project with Typescript</b>
