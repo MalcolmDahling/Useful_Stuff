@@ -236,6 +236,38 @@ npm i --save @types/react-scroll
 npx create-next-app@latest . --ts
 <br/>
 
+<b>Enable Stiches server-rendering<b/>
+<br/>
+pages/_document.tsx
+<br/>
+
+<p>
+/* eslint-disable import/no-default-export */
+import React from 'react';
+import NextDocument, { Html, Head, Main, NextScript } from 'next/document';
+import { getCssText } from '../stitches.config';
+
+export default class Document extends NextDocument {
+    render() {
+        return (
+            <Html lang="en">
+                <Head>
+                    <style
+                        id="stitches"
+                        // eslint-disable-next-line react/no-danger
+                        dangerouslySetInnerHTML={{ __html: getCssText() }}
+                    />
+                </Head>
+                <body>
+                    <Main />
+                    <NextScript />
+                </body>
+            </Html>
+        );
+    }
+}
+</p>
+
 
 # Node
 
