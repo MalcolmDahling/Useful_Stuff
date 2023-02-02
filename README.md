@@ -166,6 +166,8 @@ npm i react-gsap
 <br/>
 npm i body-scroll-lock
 <br/>
+npm i @types/body-scroll-lock
+<br/>
 
 <a href="https://www.npmjs.com/package/react-hook-form"><b>React Hook Form</b></a>
 <br/>
