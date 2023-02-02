@@ -238,7 +238,7 @@ npx create-next-app@latest . --ts
 
 <b>Enable Stiches server-rendering<b/>
 <br/>
-
+<a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/_document.tsx">pages/_document.tsx</a>
 <br/>
 
 
