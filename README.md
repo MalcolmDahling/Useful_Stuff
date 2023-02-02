@@ -241,32 +241,30 @@ npx create-next-app@latest . --ts
 pages/_document.tsx
 <br/>
 
-<p>
-/* eslint-disable import/no-default-export */
-import React from 'react';
-import NextDocument, { Html, Head, Main, NextScript } from 'next/document';
-import { getCssText } from '../stitches.config';
+/* eslint-disable import/no-default-export */<br/>
+import React from 'react';<br/>
+import NextDocument, { Html, Head, Main, NextScript } from 'next/document';<br/>
+import { getCssText } from '../stitches.config';<br/>
 
-export default class Document extends NextDocument {
-    render() {
-        return (
-            <Html lang="en">
-                <Head>
-                    <style
-                        id="stitches"
-                        // eslint-disable-next-line react/no-danger
-                        dangerouslySetInnerHTML={{ __html: getCssText() }}
-                    />
-                </Head>
-                <body>
-                    <Main />
-                    <NextScript />
-                </body>
-            </Html>
-        );
-    }
-}
-</p>
+export default class Document extends NextDocument {<br/>
+    render() {<br/>
+        return (<br/>
+            <Html lang="en"><br/>
+                <Head><br/>
+                    <style<br/>
+                        id="stitches"<br/>
+                        // eslint-disable-next-line react/no-danger<br/>
+                        dangerouslySetInnerHTML={{ __html: getCssText() }}<br/>
+                    /><br/>
+                </Head><br/>
+                <body><br/>
+                    <Main /><br/>
+                    <NextScript /><br/>
+                </body><br/>
+            </Html><br/>
+        );<br/>
+    }<br/>
+}<br/>
 
 
 # Node
