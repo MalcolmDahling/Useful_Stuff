@@ -238,33 +238,9 @@ npx create-next-app@latest . --ts
 
 <b>Enable Stiches server-rendering<b/>
 <br/>
-pages/_document.tsx
+
 <br/>
 
-/* eslint-disable import/no-default-export */<br/>
-import React from 'react';<br/>
-import NextDocument, { Html, Head, Main, NextScript } from 'next/document';<br/>
-import { getCssText } from '../stitches.config';<br/>
-
-export default class Document extends NextDocument {<br/>
-    render() {<br/>
-        return (<br/>
-            <Html lang="en"><br/>
-                <Head><br/>
-                    <style<br/>
-                        id="stitches"<br/>
-                        // eslint-disable-next-line react/no-danger<br/>
-                        dangerouslySetInnerHTML={{ __html: getCssText() }}<br/>
-                    /><br/>
-                </Head><br/>
-                <body><br/>
-                    <Main /><br/>
-                    <NextScript /><br/>
-                </body><br/>
-            </Html><br/>
-        );<br/>
-    }<br/>
-}<br/>
 
 
 # Node
