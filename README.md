@@ -241,6 +241,10 @@ npx create-next-app@latest . --ts
 <a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/_document.tsx">pages/_document.tsx</a>
 <br/>
 
+<a href="https://www.prisma.io/">Prisma.io</a>
+<br/>
+npm i prisma --save-dev
+<br/>
 
 
 # Node
