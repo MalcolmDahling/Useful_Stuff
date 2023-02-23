@@ -241,14 +241,6 @@ npx create-next-app@latest . --ts
 <a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/_document.tsx">pages/_document.tsx</a>
 <br/>
 
-<a href="https://www.prisma.io/">Prisma.io</a>
-<br/>
-npm i prisma --save-dev
-<br/>
-<b>Run prisma script</b>
-<br/>
-npx ts-node --esm prisma/test.mts
-<br/>
 
 
 # Node
@@ -307,6 +299,16 @@ npm i mysql2
 <br/>
 npm i mailgun.js
 <br/>
+
+<a href="https://www.prisma.io/">Prisma.io</a>
+<br/>
+npm i prisma --save-dev
+<br/>
+<b>Run prisma script</b>
+<br/>
+npx ts-node --esm prisma/test.mts
+<br/>
+
 
 
 # ESLint
