@@ -44,6 +44,8 @@
 <br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=Angular.ng-template">Angular Language Service</a>
 <br/>
+<a href="https://marketplace.visualstudio.com/items?itemName=Prisma.prisma">Prisma</a>
+<br/>
 
 
 
