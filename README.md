@@ -245,6 +245,10 @@ npx create-next-app@latest . --ts
 <br/>
 npm i prisma --save-dev
 <br/>
+<b>Run prisma script</b>
+<br/>
+npx ts-node --esm prisma/test.mts
+<br/>
 
 
 # Node
