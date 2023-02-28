@@ -247,9 +247,9 @@ npx create-next-app@latest . --ts
 
 # Node
 
-<b>Create Express project</b>
+<a href="https://www.npmjs.com/package/express"><b>Express</b></a>
 <br/>
-npx express-generator --no-view
+npm i express
 <br/>
 
 <a href="https://www.npmjs.com/package/nodemon"><b>Nodemon</b></a>
