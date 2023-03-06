@@ -231,6 +231,13 @@ npm i react-scroll
 npm i --save @types/react-scroll
 <br/>
 
+<a href="https://www.npmjs.com/package/slugify">slugify</a>
+<br/>
+npm i slugify
+<br/>
+
+
+
 # Next
 
 <b>Create Next project with Typescript</b>
