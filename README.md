@@ -28,8 +28,7 @@
 
 
 <b>Delete all old commits</b>
-<p>
-  <br/>
+
   1. Checkout<br/>
   git checkout --orphan latest_branch
 
@@ -47,7 +46,7 @@
 
   6. Finally, force update your repository<br/>
   git push -f origin main
-</p>
+
 
 
 
