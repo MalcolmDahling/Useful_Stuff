@@ -29,22 +29,22 @@
 
 <b>Delete all old commits</b>
 <p>
-  1. Checkout
+  1. Checkout<br/>
   git checkout --orphan latest_branch
 
-  2. Add all the files
+  2. Add all the files<br/>
   git add -A
 
-  3. Commit the changes
+  3. Commit the changes<br/>
   git commit -am "commit message"
 
-  4. Delete the branch
+  4. Delete the branch<br/>
   git branch -D main
 
-  5. Rename the current branch to main
+  5. Rename the current branch to main<br/>
   git branch -m main
 
-  6. Finally, force update your repository
+  6. Finally, force update your repository<br/>
   git push -f origin main
 </p>
 
