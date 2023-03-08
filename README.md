@@ -16,36 +16,33 @@
 4. git commit -m "Commit message"
 
 <b>Fix git filename case on whole repo</b>
-<p>
-  1. git rm -r --cached .</br>
-  2. git add --all ..</br>
-  Review that **only** changes staged are renames.</br>
-  3. git status.</br>
-  Commit your changes after reviewing.</br>
-  4. git commit -a -m "Fixing file name casing".</br>
-  5. git push</br>
-</p>
+1. git rm -r --cached .</br>
+2. git add --all ..</br>
+Review that **only** changes staged are renames.</br>
+3. git status.</br>
+Commit your changes after reviewing.</br>
+4. git commit -a -m "Fixing file name casing".</br>
+5. git push</br>
 
 
 <b>Delete all old commits</b>
+1. Checkout<br/>
+git checkout --orphan latest_branch
 
-  1. Checkout<br/>
-  git checkout --orphan latest_branch
+2. Add all the files<br/>
+git add -A
 
-  2. Add all the files<br/>
-  git add -A
+3. Commit the changes<br/>
+git commit -am "commit message"
 
-  3. Commit the changes<br/>
-  git commit -am "commit message"
+4. Delete the branch<br/>
+git branch -D main
 
-  4. Delete the branch<br/>
-  git branch -D main
+5. Rename the current branch to main<br/>
+git branch -m main
 
-  5. Rename the current branch to main<br/>
-  git branch -m main
-
-  6. Finally, force update your repository<br/>
-  git push -f origin main
+6. Finally, force update your repository<br/>
+git push -f origin main
 
 
 
