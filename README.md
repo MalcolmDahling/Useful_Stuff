@@ -359,3 +359,48 @@ npm i eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin@^5.13.0 @
 </p>
 
 <a href="https://gist.github.com/bradtraversy/aab26d1e8983d9f8d79be1a9ca894ab4"><b>VSCode - ESLint, Prettier & Airbnb Setup</b></a>
+
+
+
+# Socket.io
+<b>Sending to sender-client only</b><br/>
+socket.emit('message', "this is a test");<br/>
+
+<b>Sending to all clients except sender</b><br/>
+socket.broadcast.emit('message', "this is a test");<br/>
+
+<b>Sending to all clients in 'game' room(channel) except sender</b><br/>
+socket.broadcast.to('game').emit('message', 'nice game');<br/>
+
+<b>Sending to sender client, only if they are in 'game' room(channel)</b><br/>
+socket.to('game').emit('message', 'enjoy the game');<br/>
+
+<b>Sending to individual socketid</b><br/>
+socket.broadcast.to(socketid).emit('message', 'for your eyes only');<br/>
+
+<b>Sending to all clients, include sender</b><br/>
+io.emit('message', "this is a test");<br/>
+
+<b>Sending to all clients in 'game' room(channel), include sender</b><br/>
+io.in('game').emit('message', 'cool game');<br/>
+
+<b>Sending to all clients in namespace 'myNamespace', include sender</b><br/>
+io.of('myNamespace').emit('message', 'gg');<br/>
+
+<b>Send to all connected clients</b><br/>
+socket.emit();<br/>
+
+<b>Send to all connected clients except the one that sent the message</b><br/>
+socket.broadcast.emit();<br/>
+
+<b>Event listener, can be called on client to execute on server</b><br/>
+socket.on();<br/>
+
+<b>For emiting to specific clients</b><br/>
+io.sockets.socket();<br/>
+
+<b>Send to all connected clients (same as socket.emit)</b><br/>
+io.sockets.emit();<br/>
+
+<b>Initial connection from a client.</b><br/>
+io.sockets.on();<br/>
