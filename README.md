@@ -255,6 +255,11 @@ npm i --save @types/react-scroll
 npm i slugify
 <br/>
 
+<a href="https://keen-slider.io/">Keen-Slider</a>
+<br/>
+npm i keen-slider
+<br/>
+
 
 
 # Next
