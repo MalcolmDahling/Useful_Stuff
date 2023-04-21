@@ -47,7 +47,10 @@ git push -f origin main
 
 
 
-# VS Code Extensions
+# VS Code
+
+<b>Extensions</b>
+<br/>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
 <br/>
@@ -65,6 +68,10 @@ git push -f origin main
 <br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=Prisma.prisma">Prisma</a>
 <br/>
+
+<b>Settings</b>
+<br/>
+<a href="https://raulmelo.dev/en/til/choose-the-suggestion-order-in-vscode">Choose suggestion order (log to console on top)</a>
 
 
 
