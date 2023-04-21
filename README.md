@@ -51,7 +51,6 @@ git push -f origin main
 
 <b>Extensions</b>
 <br/>
-
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
 <br/>
 <a href="https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets">Reactjs code snippets</a>
