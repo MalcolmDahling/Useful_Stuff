@@ -280,6 +280,11 @@ npx create-next-app@latest . --ts
 <a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/_document.tsx">pages/_document.tsx</a>
 <br/>
 
+<a href="https://www.npmjs.com/package/@storyblok/react">@storyblok/react</a>
+<br/>
+npm i @storyblok/react
+<br/>
+
 
 
 # Node
