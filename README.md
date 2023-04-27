@@ -348,6 +348,11 @@ npm i prisma --save-dev
 npx ts-node --esm prisma/test.mts
 <br/>
 
+<a href="https://www.npmjs.com/package/storyblok-js-client">storyblok-js-client</a>
+<br/>
+npm i storyblok-js-client
+<br/>
+
 
 
 # ESLint
