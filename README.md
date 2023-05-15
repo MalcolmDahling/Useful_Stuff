@@ -45,7 +45,7 @@ git branch -m main
 git push -f origin main
 
 
-<b>Refresh branch list (remove old unused branches)</b>
+<b>Refresh branch list (remove old unused branches)</b><br/>
 git remote update origin --prune<br/>
 
 
