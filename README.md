@@ -292,6 +292,8 @@ npx create-next-app@latest . --ts
 
 <b><a href="https://vanilla-extract.style/">Vanilla Extract</a><b/>
 <br/>
+npm i @vanilla-extract/css
+<br/>
 npm i --save-dev @vanilla-extract/next-plugin
 <br/>
 npm i @vanilla-extract/recipes
