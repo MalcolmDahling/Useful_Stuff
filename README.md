@@ -296,6 +296,7 @@ npm install --save-dev @vanilla-extract/next-plugin
 <br/>
 npm install @vanilla-extract/recipes
 <br/>
+<a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/next.config.js">Add changes to next.config.js</a>
 
 
 # Node
