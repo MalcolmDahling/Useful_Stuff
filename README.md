@@ -292,11 +292,12 @@ npx create-next-app@latest . --ts
 
 <b><a href="https://vanilla-extract.style/">Vanilla Extract</a><b/>
 <br/>
-npm install --save-dev @vanilla-extract/next-plugin
+npm i --save-dev @vanilla-extract/next-plugin
 <br/>
-npm install @vanilla-extract/recipes
+npm i @vanilla-extract/recipes
 <br/>
 <a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/next.config.js">Add this to next.config.js</a>
+<br/>
 
 
 # Node
