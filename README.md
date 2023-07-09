@@ -290,13 +290,13 @@ npx create-next-app@latest . --ts
 <a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/_document.tsx">pages/_document.tsx</a>
 <br/>
 
-<b>Vanilla Extract<b/>
+<b><a href="https://vanilla-extract.style/">Vanilla Extract</a><b/>
 <br/>
 npm install --save-dev @vanilla-extract/next-plugin
 <br/>
 npm install @vanilla-extract/recipes
 <br/>
-<a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/next.config.js">Add changes to next.config.js</a>
+<a href="https://github.com/MalcolmDahling/Useful_Stuff/blob/main/next.config.js">Add this to next.config.js</a>
 
 
 # Node
