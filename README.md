@@ -275,9 +275,9 @@ npm i @storyblok/react
 
 <a href="https://www.npmjs.com/package/react-sortablejs">react-sortablejs</a>
 <br/>
-npm install --save react-sortablejs sortablejs
-<br/>
 npm install --save sortablejs
+<br/>
+npm install --save react-sortablejs
 <br/>
 npm install --save-dev @types/sortablejs
 <br/>
