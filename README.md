@@ -87,8 +87,6 @@ left:'50%',
 <br/>
 top:'50%',
 <br/>
-'-webkit-transform':'translate(-50%, -50%)',
-<br/>
 transform:'translate(-50%, -50%)'
 <br/>
 
@@ -275,6 +273,19 @@ npm i keen-slider
 npm i @storyblok/react
 <br/>
 
+<a href="https://www.npmjs.com/package/react-sortablejs">react-sortablejs</a>
+<br/>
+npm install --save react-sortablejs sortablejs
+<br/>
+npm install --save sortablejs
+<br/>
+npm install --save-dev @types/sortablejs
+<br/>
+
+<a href="https://www.npmjs.com/package/react-svg">react-svh</a>
+<br/>
+npm i react-svg
+<br/>
 
 
 
