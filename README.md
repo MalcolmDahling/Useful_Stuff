@@ -287,6 +287,10 @@ npm install --save-dev @types/sortablejs
 npm i react-svg
 <br/>
 
+<a href="https://www.npmjs.com/package/recharts">recharts</a>
+<br/>
+npm i recharts
+<br/>
 
 
 # Next
