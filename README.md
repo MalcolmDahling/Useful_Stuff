@@ -282,7 +282,7 @@ npm install --save react-sortablejs
 npm install --save-dev @types/sortablejs
 <br/>
 
-<a href="https://www.npmjs.com/package/react-svg">react-svh</a>
+<a href="https://www.npmjs.com/package/react-svg">react-svg</a>
 <br/>
 npm i react-svg
 <br/>
