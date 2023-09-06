@@ -292,6 +292,11 @@ npm i react-svg
 npm i recharts
 <br/>
 
+<a href="https://www.npmjs.com/package/storyblok-rich-text-react-renderer">storyblok-rich-text-react-renderer</a>
+<br/>
+npm i storyblok-rich-text-react-renderer
+<br/>
+
 
 # Next
 
